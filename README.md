@@ -8,5 +8,5 @@ Installation
 
 ```sh
 $ brew tap witsch/opentracker
-$ brew install opentracker
+$ brew install --HEAD opentracker
 ```
